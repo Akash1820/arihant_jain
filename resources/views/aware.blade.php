@@ -492,7 +492,7 @@
     <div class="row">
   <div class="column">
     <div class="card">
-         <a href="awareness" class="s">
+         <a href="awaree" class="s">
         <span></span>
         <span></span>
         <span></span>

@@ -40,7 +40,7 @@ Route::get('/rnt', function () {
 Route::get('/textlocal', function () {
     return view('textlocal.class');
 });
-Route::get('/awareness', function () {
+Route::get('/awaree', function () {
     return view('awareness');
 });
 Route::get('/vandalism', function () {
